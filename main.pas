@@ -38,6 +38,7 @@ procedure TfrmMain.btnMod3Click(Sender: TObject);
 begin
   Application.CreateForm(TfrmMod3, frmMod3);
   frmMod3.ShowModal;
+  //dfafs
 end;
 
 end.
